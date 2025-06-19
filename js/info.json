@@ -1,0 +1,59 @@
+{
+    "Products": [
+        {
+            "name": "Paco Rabanne Invictus Eau de Toilette 100ml",
+            "price": 131,
+            "image": "https://static.beautytocare.com/cdn-cgi/image/width=1600,height=1600,f=auto/media/catalog/product//p/a/paco-rabanne-invictus-eau-de-toilette-100ml.jpg",
+            "available": ""
+        },
+        {
+            "name": "Paco Rabanne Phantom Eau de Toilette 100ml",
+            "price": 119,
+            "image": "https://www.coolpriser.nl/images/Paco-Rabanne-Men-Phantom-edt-p.jpg",
+            "available": ""
+        },
+        {
+            "name": "Paco Rabanne 1 Million Eau de Toilette 100ml",
+            "price": 119,
+            "image": "https://static.beautytocare.com/cdn-cgi/image/f=auto/media/catalog/product/p/a/paco-rabanne-1-million-eau-de-toilette-200ml.jpg",
+            "available": "product--not-available"
+        },
+        {
+            "name": "Paco Rabanne 1 Million Eau de Toilette 100ml",
+            "price": 119,
+            "image": "https://allurebeauty.pk/cdn/shop/products/3349668599417-120712.jpg?v=1747400974",
+            "available": ""
+        },
+        {
+            "name": "Paco Rabanne Fame Women<br>Eau de Toilette 100ml",
+            "price": 83,
+            "image": "https://www.coolpriser.nl/images/Paco-Rabanne-Fame-Women-EDP.jpg",
+            "available": ""
+        },
+        {
+            "name": "Paco Rabanne Lady Million Eau de Toilette 100ml",
+            "price": 95,
+            "image": "https://cdn.notinoimg.com/detail_main_hq/paco-rabanne/3349668508587_03-o/lady-million___250220.jpg",
+            "available": ""
+        },
+        {
+            "name": "La Collection Rabanne Discovery set 8x2ml Eau de Parfum",
+            "price": 40,
+            "image": "https://medias.rabanne.com/cdn-cgi/image/width=700,quality=90/https://medias.rabanne.com/medias/sys_master/images/h03/ha5/10404978589726/10404978524190/10404978524190.jpg",
+            "available": "product--not-available"
+        },
+        {
+            "name": "Invictus Parfum 100ML & DEO 150ML & Travel Spray 10ML",
+            "price": 144,
+            "image": "https://medias.rabanne.com/cdn-cgi/image/width=700,quality=90/https://medias.rabanne.com/medias/sys_master/images/ha0/h0b/10422789406750/10422789341214/10422789341214.jpg",
+            "available": ""
+        },
+        {
+            "name": "Paco Rabanne Million Gold For Her Eau de Parfum 200ml",
+            "price": 152,
+            "image": "https://media.iciparisxl.nl/medias/prd-side-1324462-954x1192.jpg?context=bWFzdGVyfHByZC1pbWFnZXN8MTEzNjI3fGltYWdlL2pwZWd8YURjeEwyZ3pPUzh4TVRFeU9UY3hOamc1T1RnM01DOXdjbVF0YzJsa1pTMHhNekkwTkRZeVh6azFOSGd4TVRreUxtcHdad3w5NzU5MDAwNDM0NmJkM2Y1MTY3ZjliOWFjNzk0YTJmMjg2ZTEwNjhmZTU0NmVmYjY0YzY0YTE1YzUyZWZhNzgz",
+            "available": ""
+        }
+        
+    ]
+}

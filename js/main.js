@@ -1,3 +1,38 @@
+function Card(name, price, image, available) {
+  let list = document.getElementById('list');
+  let div = document.createElement('article');
+  div.innerHTML = `
+      <img
+        src="${image}"
+        alt="Paco Rabanne Invictus bottle with a silver trophy cap"
+        class="product__img"
+        width="150"
+        height="150"
+        loading="lazy"
+      />
+      <h2 class="product__price" id="buzz-price">€${price}</h2>
+      <h3 class="product__title" id="buzz-title">${name}</h3>
+      <p class="product__rating" aria-label="Five star rating">★★★★★</p>
+      <button class="product__button" type="button">Add to Cart</button>
+      <button class="product__remove-button" type="button" aria-label="Remove Buzz Lightyear from cart" title="Remove from cart">Remove</button>`;
+  div.className = `product ${available}`;
+  list.append(div);
+  list.appendChild(div);
+}
+
+async function fetchProducts() {
+  const response = await fetch('js/info.json');
+  const data = await response.json();
+  console.log(data);
+  let prod = data.Products
+  prod.forEach(prod => {
+    Card(prod.name, prod.price, prod.image, prod.available);
+  });
+}
+
+fetchProducts();
+
+
 (() => {
   const cartCountEl = document.getElementById('cart-count');
   let cartCount = 0;
